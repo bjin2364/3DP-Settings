@@ -1,0 +1,21 @@
+{
+    "header": {
+        "filament_id": "5805fe64-4576-4314-a001-5ec3cc501b8a",
+        "filament_name": "ABS 1.75mm"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "Raise3D",
+        "filament_density": 1120,
+        "filament_diameter": 1.75,
+        "filament_display_name": "[Raise3D] ABS 1.75mm",
+        "filament_flowrate": 100,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_notes": "",
+        "filament_price": 30
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}

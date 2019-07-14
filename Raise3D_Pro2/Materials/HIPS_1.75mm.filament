@@ -1,0 +1,21 @@
+{
+    "header": {
+        "filament_id": "6974171e-9d02-4617-a557-881bb7f3fff9",
+        "filament_name": "HIPS 1.75mm"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "",
+        "filament_density": 1040,
+        "filament_diameter": 1.75,
+        "filament_display_name": "HIPS 1.75mm",
+        "filament_flowrate": 98,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_notes": "",
+        "filament_price": 105
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}
